@@ -1,0 +1,11 @@
+/*
+ *
+ * BYODConfig constants
+ *
+ */
+
+export const PAYMENTCALC_DATA = 'PAYMENTCALC_DATA';
+export const LOAD_REPOS_SUCCESS = 'LOAD_REPOS_SUCCESS';
+export const LOAD_ADD_DEVICE = 'LOAD_ADD_DEVICE';
+export const LOAD_DATA_ADD_DEVICE_SUCESS = 'LOAD_DATA_ADD_DEVICE_SUCESS';
+export const LOAD_SUCCESS = 'LOAD_SUCCESS';

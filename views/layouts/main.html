@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="mobile-web-app-capable" content="yes">
+            <link rel="stylesheet" href="https://scache.vzw.com/globalnav/css/globalnav-js.css"/>
+    <link rel="stylesheet" href="https://scache.vzw.com/globalnav/css/omnifooter.css"/>
+
+<!-- <script type="text/javascript" src="http://localhost:51569/feedback/empFeedback.js"></script> -->
+<link href="https://respframework.verizon.com/vzrf/2-20-0/stylesheets/complete/vzrf-namespaced.css" rel="stylesheet" />
+<!-- <link href="/UFDRender/UFDGeneric/css/app.css" rel="stylesheet" />-->
+        <title>{{ title }}</title>      
+
+      
+  <link rel="stylesheet" href="/ufd/css/combined.min.css">
+
+    
+    </head>
+    <body>
+        <script type="text/javascript">
+            {{#each json}}
+            var {{@key}} = {{{ this}}}
+            {{/each}}
+        </script>
+        {{{ body }}}
+
+
+    </body>
+</html>

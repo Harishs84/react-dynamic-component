@@ -1,0 +1,268 @@
+[{
+		"Inputs" : {
+			"Flow" : {
+				"DisplayName" : "Price Calculator"
+			},
+			"Step" : {
+				"Description" : "Device Types",
+				"TimerTime" : "5"
+			},
+			"Possible_Paths" : {
+				"Path" : {
+					"Image" : null,
+					"Label" : "Continue",
+					"index" : "0",
+					"TemplateData" : {
+						"ButtonType" : "",
+						"CustomStyle" : "margin-top-tiny medium-margin-right-large auto medium-right calcBtn",
+						"Disabled" : "",
+						"Hidden" : "",
+						"OverrideLabel" : "",
+						"URL" : "",
+						"Validate" : "True"
+					}
+				}
+			},
+			"Caption" : "Price Calculator",
+			"Description" : "Device Types",
+			"newTemp" : {
+				"Section" : [{
+						"DisplayLocation" : "LargeModal",
+						"TargetLocation" : "ufdModalLarge",
+						"TemplateFileName" : "PaymentCalculatorDeviceTypes",
+						"TemplateID" : "PaymentCalculatorDeviceTypes",
+						"TemplateName" : "PaymentCalculatorDeviceTypes Template",
+						"UFDID" : "a489019c-9422-4ffb-92e3-d2015021d4dc",
+						"Inputs" : {
+							"Caption" : "",
+							"Description" : "Device Types",
+							"DeviceCount" : "0",
+							"DeviceTypesCount" : "2",
+							"Header" : "What type of devices are you interested in?",
+							"RequestNum" : "",
+							"ShowMoreDevices" : "",
+							"SubHeader" : "You can choose a maximum of 5",
+							"DeviceTypes" : {
+								"SupportedDevice" : [{
+										"ActivationFee" : "30.00",
+										"Count" : "0",
+										"DefaultLAC" : "20.00",
+										"DeviceType" : "smartphones",
+										"Name1" : "Smartphone",
+										"Name2" : "Pick Your Device",
+										"ProductName" : "Smartphone",
+										"imgUrl" : "https://ss7.vzw.com/is/image/VerizonWireless/calc-gen-smartphone-2x-31617"
+									}, {
+										"ActivationFee" : "30.00",
+										"Count" : "0",
+										"DefaultLAC" : "10.00",
+										"DeviceType" : "tablets",
+										"Name1" : "Tablet",
+										"Name2" : "Pick Your Device",
+										"ProductName" : "Tablet",
+										"imgUrl" : "https://ss7.vzw.com/is/image/VerizonWireless/calc-gen-tablet-2x-31617"
+									}, {
+										"ActivationFee" : "30.00",
+										"Count" : "0",
+										"DefaultLAC" : "20.00",
+										"DeviceType" : "basicphones",
+										"Name1" : "Basic Phone",
+										"Name2" : "Pick Your Device",
+										"ProductName" : "Basic phone",
+										"imgUrl" : "https://ss7.vzw.com/is/image/VerizonWireless/calc-gen-basicphone-2x-31617"
+									}, {
+										"ActivationFee" : "0.00",
+										"Count" : "0",
+										"DefaultLAC" : "10.00",
+										"DeviceType" : "internetdevices",
+										"Name1" : "Hotspot",
+										"Name2" : "Pick Your Device",
+										"ProductName" : "Hotspot",
+										"imgUrl" : "https://ss7.vzw.com/is/image/VerizonWireless/calc-gen-hotspot-2x-31617"
+									}
+								]
+							},
+							"Item1" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item2" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item3" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item4" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item5" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item6" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item7" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item8" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item9" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item10" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item11" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item12" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item13" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item14" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item15" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item16" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item17" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item18" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item19" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item20" : {
+								"key" : "",
+								"value" : ""
+							},
+							"SiteCat" : {
+								"Item20" : {
+									"key" : "page.pageName",
+									"value" : "/desktop store/mpc/add devices overlay"
+								},
+								"Item19" : {
+									"key" : "page.section2",
+									"value" : "/desktop store/mpc"
+								},
+								"Item18" : {
+									"key" : "page.hier1",
+									"value" : "desktop store/mpc/add devices overlay"
+								},
+								"Item17" : {
+									"key" : "page.channel",
+									"value" : "/desktop store"
+								},
+								"Item16" : {
+									"key" : "page.flowName",
+									"value" : "nse"
+								},
+								"Item15" : {
+									"key" : "page.flowType",
+									"value" : "multi line with nse"
+								},
+								"Item14" : {
+									"key" : "page.authStatus",
+									"value" : "unauthenticated"
+								},
+								"Item13" : {
+									"key" : "page.globalId",
+									"value" : "a0c6d909b61643fe9e0d89838b1ec792"
+								},
+								"Item12" : {
+									"key" : "page.pageType",
+									"value" : "desktop store"
+								},
+								"Item11" : {
+									"key" : "page.testVersion",
+									"value" : "mpc"
+								},
+								"Item10" : {
+									"key" : "page.sessionId",
+									"value" : "d2f606c8-5170-466d-bc5b-70317ef10b63"
+								},
+								"Item9" : {
+									"key" : "page.platform",
+									"value" : "desktop store"
+								},
+								"Item8" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item7" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item6" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item5" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item4" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item3" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item2" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item1" : {
+									"key" : "",
+									"value" : ""
+								}
+							}
+						}
+					}, {
+						"DisplayLocation" : "Middle",
+						"TargetLocation" : "ufdLocation0"
+					}
+				]
+			}
+		},
+		"CurrentStep" : "6260c3a7-00e6-41ca-a10f-3efa48739ddf",
+		"SubFlow" : "Wireless\\AOL Wizards\\monthly-payment-calculator.xml",
+		"CallStack" : "806f7a49-d5df-4863-bf09-e2ca31ef55b7",
+		"SESSIONID" : "d2f606c8-5170-466d-bc5b-70317ef10b63",
+		"ScrollToTop" : "Yes",
+		"TID" : "d2f606c8-5170-466d-bc5b-70317ef10b63",
+		"ERROR_ID" : "OK",
+		"TemplateID" : "1_Pane",
+		"Redirect" : "False",
+		"publicKey" : "9b16cb38790404ef2cc3be3796b9f0efa44d94e36492dbae67c048c018b6303d9e2a607df769ecd6b1e1f15bdcd9292af7816fdeea3b6df48910d5c0e82302889154728285b3a7706e2443f7339f3dbcde6a39dc0da75b8a3b3dbf4df01196b1237790a8eb07c49523dd4f1883bdf5b4a351c5dd2cb75e8b789ee5916a136b27a63b73118e5efa968d3769313a8351d530d87db44210f38eb304f5964836f018cfe6a7fb4f9f0c3ef60e585d834ad9d92f27bb3141ad08c3822fa964ad574c69f45fde7f2646b8703aaaad6823d8b1d2ef664d03d555bc82d7f9c666f66904e4bbb4a1487597190e5042b8c45841f722c7307e03c9069f292861127e5cb5da4f#10001",
+		"Level" : "0",
+		"ShareID" : "46e441dd-850d-4c43-8554-40b833be0073"
+	}
+]

@@ -1,0 +1,518 @@
+[{
+		"Inputs" : {
+			"Flow" : {
+				"DisplayName" : "Monthly Payment Calculator | Monthly Plan Cost | Verizon Wireless "
+			},
+			"Step" : {
+				"Description" : "Home Page",
+				"TimerTime" : "5"
+			},
+			"Possible_Paths" : {
+				"Path" : [{
+						"Image" : null,
+						"Label" : "Dummy1",
+						"index" : "0",
+						"TemplateData" : {
+							"URL" : ""
+						}
+					}, {
+						"Image" : null,
+						"Label" : "add Plan",
+						"index" : "1",
+						"TemplateData" : {
+							"URL" : ""
+						}
+					}, {
+						"Image" : null,
+						"Label" : "Add a Device",
+						"index" : "2",
+						"TemplateData" : {
+							"URL" : ""
+						}
+					}, {
+						"Image" : null,
+						"Label" : "Dummy2",
+						"index" : "3"
+					}, {
+						"Image" : null,
+						"Label" : "Dummy3",
+						"index" : "4"
+					}, {
+						"Image" : null,
+						"Label" : "Check Out",
+						"index" : "5",
+						"TemplateData" : {
+							"URL" : ""
+						}
+					}, {
+						"Image" : null,
+						"Label" : "Dumy 4",
+						"index" : "6"
+					}, {
+						"Image" : null,
+						"Label" : "Add plans popup",
+						"index" : "7"
+					}, {
+						"Image" : null,
+						"Label" : "Legal1",
+						"index" : "8"
+					}, {
+						"Image" : null,
+						"Label" : "Legal2",
+						"index" : "9"
+					}, {
+						"Image" : null,
+						"Label" : "Show Promo popup",
+						"index" : "10"
+					}
+				]
+			},
+			"Caption" : "Monthly Payment Calculator | Monthly Plan Cost | Verizon Wireless ",
+			"Description" : "Home Page",
+			"newTemp" : {
+				"Section" : [{
+						"DisplayLocation" : "LeftTop",
+						"TargetLocation" : "ufdLocationLeftTop",
+						"TemplateFileName" : "VZW_PaymentCalculatorAddDeviceBase",
+						"TemplateID" : "VZW_PaymentCalculatorAddDeviceBase",
+						"TemplateName" : "VZW_PaymentCalculatorAddDeviceBase",
+						"UFDID" : "35c7de1b-f967-40ea-99bb-76591435ca57",
+						"Inputs" : {
+							"AverageRating" : "",
+							"Caption" : "",
+							"ConfiguredDevicesCount" : "",
+							"DataCost" : "434",
+							"Description" : "Home Page",
+							"DeviceCategory" : "",
+							"DevicePayment" : "56",
+							"DeviceTypesCount" : "",
+							"Duetoday" : "56",
+							"FilteTitle" : "",
+							"Header" : "",
+							"LineAccess" : "34",
+							"NonConfigDevicesCount" : "",
+							"NumberOfReviews" : "",
+							"OrderId" : "",
+							"PlanIcon" : "",
+							"PlanTopTitle" : "",
+							"PromotionText" : "fsfs",
+							"RequestNum" : "",
+							"SelectedFilter" : "",
+							"ServerCartDeviceCount" : "",
+							"ShowMoreDevices" : "",
+							"SingleLinePlanShow" : "False",
+							"StepNumber" : "1",
+							"SubHeader" : "",
+							"System" : "",
+							"TaxesAndFees" : "545",
+							"ZipCode" : "56",
+							"configuredDevices" : "0",
+							"errorMessage" : "",
+							"isSingleLinePlan" : "false",
+							"key" : "",
+							"selectedPlanId" : "",
+							"showAutoPopuo" : "",
+							"showMore" : "",
+							"showRetailPrice" : "",
+							"statusType" : "",
+							"taxDueToday" : "",
+							"totalCartDueMonthlyHeader" : "",
+							"totalDPP" : "",
+							"totalDueMonthly" : "",
+							"totalLineAccess" : "",
+							"value" : "",
+							"DisplayDevices" : null,
+							"SiteCat" : {
+								"Item20" : {
+									"key" : "page.pageName",
+									"value" : "/desktop store/mpc/landing page"
+								},
+								"Item19" : {
+									"key" : "page.section2",
+									"value" : "/desktop store/mpc"
+								},
+								"Item18" : {
+									"key" : "page.section3",
+									"value" : ""
+								},
+								"Item17" : {
+									"key" : "page.hier1",
+									"value" : "desktop store/mpc/landing page"
+								},
+								"Item16" : {
+									"key" : "page.channel",
+									"value" : "/desktop store"
+								},
+								"Item15" : {
+									"key" : "page.flowName",
+									"value" : "nse"
+								},
+								"Item14" : {
+									"key" : "page.flowType",
+									"value" : "multi line"
+								},
+								"Item13" : {
+									"key" : "page.authStatus",
+									"value" : "unauthenticated"
+								},
+								"Item12" : {
+									"key" : "page.globalId",
+									"value" : "14227744b4494d1abb12d532aeb39105"
+								},
+								"Item11" : {
+									"key" : "page.pageType",
+									"value" : "desktop store"
+								},
+								"Item10" : {
+									"key" : "page.sessionId",
+									"value" : "3e950b5a-6f12-450a-a831-d7027dd2c8f9"
+								},
+								"Item9" : {
+									"key" : "page.platform",
+									"value" : "desktop store"
+								},
+								"Item8" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item7" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item6" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item5" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item4" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item3" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item2" : {
+									"key" : "",
+									"value" : ""
+								},
+								"Item1" : {
+									"key" : "",
+									"value" : ""
+								}
+							},
+							"Cart" : null,
+							"DeviceTypes" : null,
+							"ProductDetails" : null,
+							"FiltersList" : null,
+							"Item1" : {
+								"key" : "page.pageName",
+								"value" : "/desktop store/mpc/landing page"
+							},
+							"Item2" : {
+								"key" : "page.prop1",
+								"value" : "/desktop store/mpc"
+							},
+							"Item3" : {
+								"key" : "page.hier1",
+								"value" : "desktop store/mpc/landing page"
+							},
+							"Item4" : {
+								"key" : "page.channel",
+								"value" : "/desktop store"
+							},
+							"Item5" : {
+								"key" : "page.flowName",
+								"value" : "nse"
+							},
+							"Item6" : {
+								"key" : "page.flowType",
+								"value" : "multi line"
+							},
+							"Item7" : {
+								"key" : "page.authStatus",
+								"value" : "unauthenticated"
+							},
+							"Item8" : {
+								"key" : "page.globalId",
+								"value" : "14227744b4494d1abb12d532aeb39105"
+							},
+							"Item9" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item10" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item11" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item12" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item13" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item14" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item15" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item16" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item17" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item18" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item19" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item20" : {
+								"key" : "",
+								"value" : ""
+							}
+						}
+					}, {
+						"DisplayLocation" : "TopHeader",
+						"TargetLocation" : "ufdLocationHeader",
+						"TemplateFileName" : "VZW_PaymentCalculatorHeader",
+						"TemplateID" : "VZW_PaymentCalculatorHeader",
+						"TemplateName" : "VZW_PaymentCalculatorHeader",
+						"UFDID" : "2a48d415-8332-4335-9158-bdd9531e33cc",
+						"Inputs" : {
+							"MainHeader" : "Monthly payment calculator",
+							"ShowBanner" : "False",
+							"SubHeader" : "Pick your devices and plan. Check out if you like what you see. It is as simple as that.",
+							"configuredDevices" : "",
+							"totalCartDueMonthlyHeader" : ""
+						}
+					}, {
+						"DisplayLocation" : "LeftBottom",
+						"TargetLocation" : "ufdLocationLeftBotton",
+						"TemplateFileName" : "VZW_PaymentCalculatorPlan",
+						"TemplateID" : "VZW_PaymentCalculatorPlan",
+						"TemplateName" : "VZW_PaymentCalculatorPlan",
+						"UFDID" : "8d869784-fd16-400a-98a1-c30cd8ab41c8",
+						"Inputs" : {
+							"HidePlanAdditionalDetails" : "False",
+							"PromotionText" : "",
+							"PromotionToolTip" : "",
+							"SelectedPlanData" : "",
+							"SelectedPlanImage" : "",
+							"SingleLinePlanShow" : "True",
+							"StepNumber" : "2",
+							"isSingleLinePlan" : "true",
+							"selectedPlanId" : "",
+							"PlanList" : {
+								"plan" : [{
+										"id" : "96325",
+										"icon" : "S",
+										"TopTitle" : "2 GB",
+										"PromotionTooltip" : null,
+										"imageUnSelected" : "https://ss7.vzw.com/is/image/VerizonWireless/2017-plan-s-2gb-black",
+										"imageSelected" : "https://ss7.vzw.com/is/image/VerizonWireless/2017-plan-s-2gb-red",
+										"displayName" : "2GB/$35",
+										"price" : "35",
+										"singleDeviceTvp2Plan" : "false"
+									}, {
+										"id" : "96327",
+										"icon" : "M",
+										"TopTitle" : "4 GB",
+										"PromotionTooltip" : null,
+										"imageUnSelected" : "https://ss7.vzw.com/is/image/VerizonWireless/2017-plan-m-4gb-black",
+										"imageSelected" : "https://ss7.vzw.com/is/image/VerizonWireless/2017-plan-m-4gb-red",
+										"displayName" : "4GB/$50",
+										"price" : "50",
+										"singleDeviceTvp2Plan" : "false"
+									}, {
+										"id" : "96328",
+										"icon" : "L",
+										"TopTitle" : "8 GB",
+										"PromotionTooltip" : null,
+										"imageUnSelected" : "https://ss7.vzw.com/is/image/VerizonWireless/2017-plan-l-8gb-black",
+										"imageSelected" : "https://ss7.vzw.com/is/image/VerizonWireless/2017-plan-l-8gb-red",
+										"displayName" : "8GB/$70",
+										"price" : "70",
+										"singleDeviceTvp2Plan" : "false"
+									}, {
+										"id" : "98127",
+										"icon" : "U",
+										"TopTitle" : "Unlimited",
+										"Promotion" : "Save $10.00/mo. when you signup for paper-free billing and Auto Pay after service activation",
+										"PromotionTooltip" : "Auto Pay (sign up online or on the phone using bank acct or debit card) & paper free billing required to get discount. Discount applies monthly as long as paper-free billing and Auto Pay remain active.",
+										"imageUnSelected" : "https://ss7.vzw.com/is/image/VerizonWireless/2017-plan-u-unlimited-black",
+										"imageSelected" : "https://ss7.vzw.com/is/image/VerizonWireless/2017-plan-u-unlimited-red",
+										"CartPromo" : "You will save $10.00/mo with Auto-pay",
+										"displayName" : "9999GB/$110",
+										"price" : "110",
+										"singleDeviceTvp2Plan" : "false"
+									}, {
+										"id" : "97928",
+										"icon" : "5",
+										"TopTitle" : "5 GB",
+										"PromotionTooltip" : null,
+										"imageUnSelected" : "https://ss7.vzw.com/is/image/VerizonWireless/2017-plan-5gb-black",
+										"imageSelected" : "https://ss7.vzw.com/is/image/VerizonWireless/2017-plan-5gb-red",
+										"displayName" : "5GB/$40",
+										"price" : "40",
+										"singleDeviceTvp2Plan" : "true"
+									}, {
+										"id" : "98129",
+										"icon" : "U",
+										"TopTitle" : "Unlimited",
+										"Promotion" : "Save $5.00/mo. when you signup for paper-free billing and Auto Pay after service activation",
+										"PromotionTooltip" : "Auto Pay (sign up online or on the phone using bank acct or debit card) & paper free billing required to get discount. Discount applies monthly as long as paper-free billing and Auto Pay remain active.",
+										"imageUnSelected" : "https://ss7.vzw.com/is/image/VerizonWireless/2017-plan-u-unlimited-black",
+										"imageSelected" : "https://ss7.vzw.com/is/image/VerizonWireless/2017-plan-u-unlimited-red",
+										"CartPromo" : "You will save $5.00/mo with Auto-pay",
+										"displayName" : "9999GB/$65",
+										"price" : "65",
+										"singleDeviceTvp2Plan" : "true"
+									}
+								]
+							},
+							"Item1" : {
+								"key" : "page.pageName",
+								"value" : "/desktop store/mpc/select data plan overlay"
+							},
+							"Item2" : {
+								"key" : "page.prop1",
+								"value" : "/desktop store/mpc"
+							},
+							"Item3" : {
+								"key" : "page.hier1",
+								"value" : "desktop store/mpc/select data plan overlay"
+							},
+							"Item4" : {
+								"key" : "page.channel",
+								"value" : "/desktop store"
+							},
+							"Item5" : {
+								"key" : "page.flowName",
+								"value" : ""
+							},
+							"Item6" : {
+								"key" : "page.flowType",
+								"value" : ""
+							},
+							"Item7" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item8" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item9" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item10" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item11" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item12" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item13" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item14" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item15" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item16" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item17" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item18" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item19" : {
+								"key" : "",
+								"value" : ""
+							},
+							"Item20" : {
+								"key" : "",
+								"value" : ""
+							}
+						}
+					}, {
+						"DisplayLocation" : "RightTop",
+						"TargetLocation" : "ufdLocationRightTop",
+						"TemplateFileName" : "VZW_PaymentCalculatorCart",
+						"TemplateID" : "VZW_PaymentCalculatorCart",
+						"TemplateName" : "VZW_PaymentCalculatorCart",
+						"UFDID" : "1e7bf8d6-c757-4127-8505-c760ed7e3b45",
+						"Inputs" : {
+							"ConfiguredDevicesCount" : "0",
+							"DataCost" : "23",
+							"DevicePayment" : "34",
+							"DueMonthlyDataExpanded" : "True",
+							"DueMonthlyDeviceExpanded" : "False",
+							"Duetoday" : "34",
+							"LineAccess" : "123",
+							"NonConfigDevicesCount" : "0",
+							"OrderId" : "",
+							"PlanIcon" : "",
+							"PlanPromoText" : "",
+							"PlanTopTitle" : "",
+							"ServerCartDeviceCount" : "0",
+							"TaxesAndFees" : "3",
+							"ZipCode" : "34",
+							"taxDueToday" : "",
+							"totalDPP" : "",
+							"totalDueMonthly" : "",
+							"totalLineAccess" : "",
+							"Cart" : null
+						}
+					}
+				]
+			}
+		},
+		"CurrentStep" : "8e23af7c-23b6-4ee2-b315-5a61f1035dc5",
+		"SubFlow" : "Wireless\\AOL Wizards\\monthly-payment-calculator.xml",
+		"CallStack" : "b809dce7-6411-4647-bf51-a811a2af867c",
+		"SESSIONID" : "3e950b5a-6f12-450a-a831-d7027dd2c8f9",
+		"ScrollToTop" : "Yes",
+		"TID" : "3e950b5a-6f12-450a-a831-d7027dd2c8f9",
+		"ERROR_ID" : "OK",
+		"TemplateID" : "1_Pane",
+		"Redirect" : "False",
+		"publicKey" : "9812319b8da3801b7531cb9ed63b7ae35d874824b3d3bb709c4fa6a0dcbf2e3881a4d82aa1398cf0c863d87beb4ee054ce802c192ddb56a1795644e63d981c9e37dec9930bc46d50554ea67a685d85586a2fb4588c0909d640bcc79a867287b98e95e7f322d2577f2cd3573d12948b46419ea29935217774db7bff47c2b835afe164e12e7bb1be8a8cceb236eadf81c60c840d2b2ffc6f716d2831317e1cb6881933c2754e7666b74ce3c7dca21f372fffae1804ca7d73d348055b0972f7b8df4245e52aa12fa484238f4b86ccca7115e94aa0007f009e0399beb4613e5364da869ff03a524ce6932874b278ed11ca394974b54f3e752d391c3c5429383e55d1#10001",
+		"Level" : "0",
+		"ShareID" : "e199d246-454a-42f6-b9f1-e7e6c0b3730c"
+	}
+]

@@ -1,0 +1,22 @@
+<div class="bodyWrapper">
+    <div class="margin20 clearfix">
+        <h3>Pages - </h3>
+        <ul>
+            {{#each paths.pages}}
+                <li>
+                    <a href="{{ this.route }}" class="link">{{{ this.title }}}</a>
+                </li>
+            {{/each}}
+        </ul>
+    </div>
+    <!--<div class="margin20 clearfix">
+        <h3>Apis - </h3>
+        <ul>
+            {{#each paths.apis}}
+            <li>
+                <a href="{{ this }}" class="link">{{{ this }}}</a>
+            </li>
+            {{/each}}
+        </ul>
+    </div>-->
+</div>
